@@ -11,7 +11,7 @@ backports.tempfile==1.0
 backports.weakref==1.0.post1
 bcrypt==3.1.7
 beautifulsoup4==4.8.0
-bleach==3.1.0
+bleach==3.1.4
 blinker==1.4
 branca==0.3.1
 brewer2mpl==1.4.1
